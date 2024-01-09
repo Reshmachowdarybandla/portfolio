@@ -1,0 +1,28 @@
+.abt{
+    font-size: xx-large;
+    /* text-decoration:underline;
+    text-decoration-line:underline;
+    text-decoration-color: gold; */
+    padding-bottom: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 3.1px;
+    border-color: gold;
+    width: fit-content;
+}
+.sec{
+    max-width: 75rem;
+    margin: 0 auto;
+    padding : 2rem;
+    max-width: 75rem;
+}
+.img{
+    float:right;
+    margin-left: 5px;
+}
+.par{
+    font-family: sans-serif;
+}
+.edu{
+    color:gold;
+    font-size: medium;
+}

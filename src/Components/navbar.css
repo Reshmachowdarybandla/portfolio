@@ -1,0 +1,23 @@
+.navbar{
+    max-width: 75rem;
+    height:5rem;
+    margin: 0 auto ;
+    padding:1rem 2rem;
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    position:sticky;
+    top:0;
+    z-index:3;
+    background-color: black;
+}
+
+.menu{
+    margin: 1rem;
+    cursor: pointer;
+}
+.menu:hover{
+    color: rgb(216, 197, 24);
+    padding-bottom: 1px;
+    border-bottom: 3px solid rgb(216, 197, 24);
+}

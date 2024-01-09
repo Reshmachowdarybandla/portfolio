@@ -1,0 +1,20 @@
+.sec{
+    max-width: 75rem;
+    margin: 0 auto;
+    padding : 2rem;
+    max-width: 75rem;
+}
+.span{
+    font-family: serif;
+    font-size: xx-large;
+    padding-bottom: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 3.1px;
+    border-color: gold;
+    width: fit-content;
+}
+.mimg{
+    margin-top: 5px;
+    float:left;
+    margin-right: 5px;
+}

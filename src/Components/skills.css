@@ -1,0 +1,30 @@
+.sec{
+    max-width: 75rem;
+    margin: 0 auto;
+    padding : 2rem;
+    max-width: 75rem;
+}
+.span{
+    font-family: serif;
+    font-size: xx-large;
+    padding-bottom: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 3.1px;
+    border-color: gold;
+    width: fit-content;
+}
+.span1{
+    color:gold;
+    font-size:x-large;
+}
+.span2{
+    font-size: large;
+    color:gold;
+}
+.par{
+    font-size: medium;
+}
+.button{
+    background-color:aliceblue;
+    border-radius: 10px;
+}
